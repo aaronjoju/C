@@ -1,0 +1,1 @@
+// C program to calculate the salary Slip of a given number of employees.(DA, Basic Pay, HRA, TA, LOP) 
