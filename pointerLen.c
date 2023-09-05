@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    char str[20]="efgwdfwefew", *ptr;
+    char str[20] = "efgwdfwefew", *ptr;
     int count;
     ptr = str;
     count = 0;
